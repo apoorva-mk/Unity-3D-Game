@@ -1,4 +1,4 @@
-## A simple project to explore game development in Unity 3D (Under process)
+## Project to explore game development in Unity 3D (Under process)
 ---
 ### Features explored
 - Game actors
